@@ -1,0 +1,3 @@
+create AMI User on AWS
+create maint.tf file with your access key, region and ami
+Use comands such as terraform init, terraform plan, terraform apply.
